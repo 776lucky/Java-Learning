@@ -1,0 +1,516 @@
+2024.09.30 17:05:44 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\18328\Desktop\Java' for client Visual Studio Code 1.88.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@961e13e]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@31b87598]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@961e13e]
+2024.09.30 17:05:44 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.30 17:05:46 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.30 17:05:46 WARN  no build tool detected in workspace 'C:\Users\18328\Desktop\Java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.09.30 17:05:46 WARN  Build server is not auto-connectable.
+C:\Users\18328\Desktop\Java\main.java:1: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x81)
+//JAVAå¤šæ¨¡æ€?
+          ^
+C:\Users\18328\Desktop\Java\main.java:7: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+    // æ„é? å‡½æ•°ï¼šåˆå§‹åŒ–åŠ¨ç‰©çš„åå­—
+         ^
+C:\Users\18328\Desktop\Java\main.java:22: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x95)
+    // è·å–åŠ¨ç‰©åå­—çš„æ–¹æ³?
+                    ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+               ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xBB)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+                         ^
+C:\Users\18328\Desktop\Java\main.java:30: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x99)
+    public Lion(String name) {  // ä¿®æ”¹ä¸ºå°å†? name
+                                          ^
+C:\Users\18328\Desktop\Java\main.java:31: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x84)
+        super(name);  // ä½¿ç”¨ä¼ å…¥çš? name
+                                ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+               ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+                 ^
+C:\Users\18328\Desktop\Java\main.java:51: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x97)
+        Animal animal1 = new Lion("Simba");  // åˆ›å»º Lion å¯¹è±¡æ—¶ä¼ å…¥åå­?
+                                                                   ^
+C:\Users\18328\Desktop\Java\main.java:53: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAC)
+        // è°ƒç”¨æ–¹æ³•ï¼šä¼šæ‰§è¡Œ Lion ç±»ä¸­é‡å†™çš„ç‰ˆæœ?
+                                       ^
+2024.09.30 17:05:47 INFO  time: code lens generation in 1.21s
+9ÔÂ 30, 2024 5:05:48 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-05-48-688.md
+2024.09.30 17:23:45 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:23:45 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-23-45-576.md
+2024.09.30 17:30:52 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+C:\Users\18328\Desktop\Java\main.java:1: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x81)
+//JAVAå¤šæ¨¡æ€?
+          ^
+C:\Users\18328\Desktop\Java\main.java:7: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+    // æ„é? å‡½æ•°ï¼šåˆå§‹åŒ–åŠ¨ç‰©çš„åå­—
+         ^
+C:\Users\18328\Desktop\Java\main.java:22: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x95)
+    // è·å–åŠ¨ç‰©åå­—çš„æ–¹æ³?
+                    ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+               ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xBB)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+                         ^
+C:\Users\18328\Desktop\Java\main.java:30: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x99)
+    public Lion(String name) {  // ä¿®æ”¹ä¸ºå°å†? name
+                                          ^
+C:\Users\18328\Desktop\Java\main.java:31: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x84)
+        super(name);  // ä½¿ç”¨ä¼ å…¥çš? name
+                                ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+               ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+                 ^
+C:\Users\18328\Desktop\Java\main.java:51: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x97)
+        Animal animal1 = new Lion("Simba");  // åˆ›å»º Lion å¯¹è±¡æ—¶ä¼ å…¥åå­?
+                                                                   ^
+C:\Users\18328\Desktop\Java\main.java:53: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAC)
+        // è°ƒç”¨æ–¹æ³•ï¼šä¼šæ‰§è¡Œ Lion ç±»ä¸­é‡å†™çš„ç‰ˆæœ?
+                                       ^
+2024.09.30 17:30:52 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:30:52 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-30-52-524.md
+2024.09.30 17:30:53 WARN  no build target for: C:\Users\18328\Desktop\Java\main.java
+2024.09.30 17:30:53 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:30:53 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-30-53-573.md
+2024.09.30 17:31:01 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+C:\Users\18328\Desktop\Java\main.java:1: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x81)
+//JAVAå¤šæ¨¡æ€?
+          ^
+C:\Users\18328\Desktop\Java\main.java:7: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+    // æ„é? å‡½æ•°ï¼šåˆå§‹åŒ–åŠ¨ç‰©çš„åå­—
+         ^
+C:\Users\18328\Desktop\Java\main.java:22: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x95)
+    // è·å–åŠ¨ç‰©åå­—çš„æ–¹æ³?
+                    ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+               ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xBB)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+                         ^
+C:\Users\18328\Desktop\Java\main.java:30: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x99)
+    public Lion(String name) {  // ä¿®æ”¹ä¸ºå°å†? name
+                                          ^
+C:\Users\18328\Desktop\Java\main.java:31: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x84)
+        super(name);  // ä½¿ç”¨ä¼ å…¥çš? name
+                                ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+               ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+                 ^
+C:\Users\18328\Desktop\Java\main.java:51: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x97)
+        Animal animal1 = new Lion("Simba");  // åˆ›å»º Lion å¯¹è±¡æ—¶ä¼ å…¥åå­?
+                                                                   ^
+C:\Users\18328\Desktop\Java\main.java:53: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAC)
+        // è°ƒç”¨æ–¹æ³•ï¼šä¼šæ‰§è¡Œ Lion ç±»ä¸­é‡å†™çš„ç‰ˆæœ?
+                                       ^
+2024.09.30 17:31:01 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:31:01 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-01-605.md
+2024.09.30 17:31:01 WARN  no build target for: C:\Users\18328\Desktop\Java\main.java
+2024.09.30 17:31:01 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:31:02 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-02-250.md
+2024.09.30 17:31:05 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:31:05 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-05-612.md
+2024.09.30 17:31:13 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:31:13 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-13-990.md
+2024.09.30 17:31:15 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+C:\Users\18328\Desktop\Java\main.java:1: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x81)
+//JAVAå¤šæ¨¡æ€?
+          ^
+C:\Users\18328\Desktop\Java\main.java:7: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+    // æ„é? å‡½æ•°ï¼šåˆå§‹åŒ–åŠ¨ç‰©çš„åå­—
+         ^
+C:\Users\18328\Desktop\Java\main.java:22: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x95)
+    // è·å–åŠ¨ç‰©åå­—çš„æ–¹æ³?
+                    ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+               ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xBB)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+                         ^
+C:\Users\18328\Desktop\Java\main.java:30: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x99)
+    public Lion(String name) {  // ä¿®æ”¹ä¸ºå°å†? name
+                                          ^
+C:\Users\18328\Desktop\Java\main.java:31: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x84)
+        super(name);  // ä½¿ç”¨ä¼ å…¥çš? name
+                                ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+               ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+                 ^
+C:\Users\18328\Desktop\Java\main.java:51: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x97)
+        Animal animal1 = new Lion("Simba");  // åˆ›å»º Lion å¯¹è±¡æ—¶ä¼ å…¥åå­?
+                                                                   ^
+C:\Users\18328\Desktop\Java\main.java:53: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAC)
+        // è°ƒç”¨æ–¹æ³•ï¼šä¼šæ‰§è¡Œ Lion ç±»ä¸­é‡å†™çš„ç‰ˆæœ?
+                                       ^
+2024.09.30 17:31:15 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:31:15 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-15-477.md
+2024.09.30 17:31:15 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.30 17:31:15 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:31:16 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-16-224.md
+C:\Users\18328\Desktop\Java\main.java:1: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x81)
+//JAVAå¤šæ¨¡æ€?
+          ^
+C:\Users\18328\Desktop\Java\main.java:7: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+    // æ„é? å‡½æ•°ï¼šåˆå§‹åŒ–åŠ¨ç‰©çš„åå­—
+         ^
+C:\Users\18328\Desktop\Java\main.java:22: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x95)
+    // è·å–åŠ¨ç‰©åå­—çš„æ–¹æ³?
+                    ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+               ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xBB)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+                         ^
+C:\Users\18328\Desktop\Java\main.java:30: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x99)
+    public Lion(String name) {  // ä¿®æ”¹ä¸ºå°å†? name
+                                          ^
+C:\Users\18328\Desktop\Java\main.java:31: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x84)
+        super(name);  // ä½¿ç”¨ä¼ å…¥çš? name
+                                ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+               ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+                 ^
+C:\Users\18328\Desktop\Java\main.java:51: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x97)
+        Animal animal1 = new Lion("Simba");  // åˆ›å»º Lion å¯¹è±¡æ—¶ä¼ å…¥åå­?
+                                                                   ^
+C:\Users\18328\Desktop\Java\main.java:53: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAC)
+        // è°ƒç”¨æ–¹æ³•ï¼šä¼šæ‰§è¡Œ Lion ç±»ä¸­é‡å†™çš„ç‰ˆæœ?
+                                       ^
+2024.09.30 17:31:16 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:31:16 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-16-591.md
+2024.09.30 17:31:17 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+C:\Users\18328\Desktop\Java\main.java:1: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x81)
+//JAVAå¤šæ¨¡æ€?
+          ^
+C:\Users\18328\Desktop\Java\main.java:7: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+    // æ„é? å‡½æ•°ï¼šåˆå§‹åŒ–åŠ¨ç‰©çš„åå­—
+         ^
+C:\Users\18328\Desktop\Java\main.java:22: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x95)
+    // è·å–åŠ¨ç‰©åå­—çš„æ–¹æ³?
+                    ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+               ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xBB)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+                         ^
+C:\Users\18328\Desktop\Java\main.java:30: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x99)
+    public Lion(String name) {  // ä¿®æ”¹ä¸ºå°å†? name
+                                          ^
+C:\Users\18328\Desktop\Java\main.java:31: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x84)
+        super(name);  // ä½¿ç”¨ä¼ å…¥çš? name
+                                ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+               ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+                 ^
+C:\Users\18328\Desktop\Java\main.java:51: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x97)
+        Animal animal1 = new Lion("Simba");  // åˆ›å»º Lion å¯¹è±¡æ—¶ä¼ å…¥åå­?
+                                                                   ^
+C:\Users\18328\Desktop\Java\main.java:53: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAC)
+        // è°ƒç”¨æ–¹æ³•ï¼šä¼šæ‰§è¡Œ Lion ç±»ä¸­é‡å†™çš„ç‰ˆæœ?
+                                       ^
+2024.09.30 17:31:17 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:31:18 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-18-064.md
+2024.09.30 17:31:17 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.30 17:31:17 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:31:18 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-18-479.md
+2024.09.30 17:31:19 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:31:19 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-19-473.md
+2024.09.30 17:31:19 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+C:\Users\18328\Desktop\Java\main.java:1: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x81)
+//JAVAå¤šæ¨¡æ€?
+          ^
+C:\Users\18328\Desktop\Java\main.java:7: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+    // æ„é? å‡½æ•°ï¼šåˆå§‹åŒ–åŠ¨ç‰©çš„åå­—
+         ^
+C:\Users\18328\Desktop\Java\main.java:22: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x95)
+    // è·å–åŠ¨ç‰©åå­—çš„æ–¹æ³?
+                    ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+               ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xBB)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+                         ^
+C:\Users\18328\Desktop\Java\main.java:30: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x99)
+    public Lion(String name) {  // ä¿®æ”¹ä¸ºå°å†? name
+                                          ^
+C:\Users\18328\Desktop\Java\main.java:31: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x84)
+        super(name);  // ä½¿ç”¨ä¼ å…¥çš? name
+                                ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+               ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+                 ^
+C:\Users\18328\Desktop\Java\main.java:51: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x97)
+        Animal animal1 = new Lion("Simba");  // åˆ›å»º Lion å¯¹è±¡æ—¶ä¼ å…¥åå­?
+                                                                   ^
+C:\Users\18328\Desktop\Java\main.java:53: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAC)
+        // è°ƒç”¨æ–¹æ³•ï¼šä¼šæ‰§è¡Œ Lion ç±»ä¸­é‡å†™çš„ç‰ˆæœ?
+                                       ^
+2024.09.30 17:31:20 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:31:20 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-20-129.md
+2024.09.30 17:31:19 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+C:\Users\18328\Desktop\Java\main.java:1: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x81)
+//JAVAå¤šæ¨¡æ€?
+          ^
+C:\Users\18328\Desktop\Java\main.java:7: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+    // æ„é? å‡½æ•°ï¼šåˆå§‹åŒ–åŠ¨ç‰©çš„åå­—
+         ^
+C:\Users\18328\Desktop\Java\main.java:22: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x95)
+    // è·å–åŠ¨ç‰©åå­—çš„æ–¹æ³?
+                    ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+               ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xBB)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+                         ^
+C:\Users\18328\Desktop\Java\main.java:30: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x99)
+    public Lion(String name) {  // ä¿®æ”¹ä¸ºå°å†? name
+                                          ^
+C:\Users\18328\Desktop\Java\main.java:31: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x84)
+        super(name);  // ä½¿ç”¨ä¼ å…¥çš? name
+                                ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+               ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+                 ^
+C:\Users\18328\Desktop\Java\main.java:51: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x97)
+        Animal animal1 = new Lion("Simba");  // åˆ›å»º Lion å¯¹è±¡æ—¶ä¼ å…¥åå­?
+                                                                   ^
+C:\Users\18328\Desktop\Java\main.java:53: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAC)
+        // è°ƒç”¨æ–¹æ³•ï¼šä¼šæ‰§è¡Œ Lion ç±»ä¸­é‡å†™çš„ç‰ˆæœ?
+                                       ^
+2024.09.30 17:31:20 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:31:20 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-20-941.md
+2024.09.30 17:31:21 WARN  no build target for: C:\Users\18328\Desktop\Java\main.java
+2024.09.30 17:31:21 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.30 17:31:21 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:31:21 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-21-364.md
+2024.09.30 17:31:21 WARN  Using indexes to guess the definition of makeSound
+2024.09.30 17:31:21 WARN  Using indexes to guess the definition of makeSound
+9ÔÂ 30, 2024 5:31:21 ÏÂÎç org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+¾¯¸æ: Unmatched cancel notification for request id 122
+9ÔÂ 30, 2024 5:31:21 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-21-672.md
+2024.09.30 17:31:32 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:31:32 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-32-590.md
+2024.09.30 17:31:34 WARN  Using indexes to guess the definition of getName
+2024.09.30 17:31:54 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+C:\Users\18328\Desktop\Java\main.java:1: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x81)
+//JAVAå¤šæ¨¡æ€?
+          ^
+C:\Users\18328\Desktop\Java\main.java:7: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+    // æ„é? å‡½æ•°ï¼šåˆå§‹åŒ–åŠ¨ç‰©çš„åå­—
+         ^
+C:\Users\18328\Desktop\Java\main.java:22: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x95)
+    // è·å–åŠ¨ç‰©åå­—çš„æ–¹æ³?
+                    ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+               ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xBB)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+                         ^
+C:\Users\18328\Desktop\Java\main.java:30: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x99)
+    public Lion(String name) {  // ä¿®æ”¹ä¸ºå°å†? name
+                                          ^
+C:\Users\18328\Desktop\Java\main.java:31: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x84)
+        super(name);  // ä½¿ç”¨ä¼ å…¥çš? name
+                                ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+               ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+                 ^
+C:\Users\18328\Desktop\Java\main.java:51: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x97)
+        Animal animal1 = new Lion("Simba");  // åˆ›å»º Lion å¯¹è±¡æ—¶ä¼ å…¥åå­?
+                                                                   ^
+C:\Users\18328\Desktop\Java\main.java:53: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAC)
+        // è°ƒç”¨æ–¹æ³•ï¼šä¼šæ‰§è¡Œ Lion ç±»ä¸­é‡å†™çš„ç‰ˆæœ?
+                                       ^
+9ÔÂ 30, 2024 5:31:55 ÏÂÎç org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+¾¯¸æ: Unmatched cancel notification for request id 142
+2024.09.30 17:31:55 WARN  no build target for: C:\Users\18328\Desktop\Java\main.java
+2024.09.30 17:31:55 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:31:55 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-55-635.md
+2024.09.30 17:31:54 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:31:55 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-55-909.md
+2024.09.30 17:31:56 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:31:56 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-31-56-304.md
+2024.09.30 17:31:58 WARN  Using indexes to guess the definition of Main
+2024.09.30 17:31:58 WARN  Using indexes to guess the definition of Main
+2024.09.30 17:32:03 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:32:03 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-32-03-290.md
+2024.09.30 17:32:03 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:32:03 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-32-03-686.md
+2024.09.30 17:32:04 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:32:04 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-32-04-395.md
+2024.09.30 17:32:08 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:32:08 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-32-08-691.md
+2024.09.30 17:32:22 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:32:22 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-32-22-186.md
+C:\Users\18328\Desktop\Java\tempCodeRunnerFile.java:1: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x81)
+// JAVAå¤šæ¨¡æ€?
+           ^
+C:\Users\18328\Desktop\Java\tempCodeRunnerFile.java:7: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+    // æ„é? å‡½æ•°ï¼šåˆå§‹åŒ–åŠ¨ç‰©çš„åå­—
+         ^
+C:\Users\18328\Desktop\Java\tempCodeRunnerFile.java:22: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x95)
+    // è·å–åŠ¨ç‰©åå­—çš„æ–¹æ³?
+                    ^
+C:\Users\18328\Desktop\Java\tempCodeRunnerFile.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+               ^
+C:\Users\18328\Desktop\Java\tempCodeRunnerFile.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xBB)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+                         ^
+C:\Users\18328\Desktop\Java\tempCodeRunnerFile.java:31: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x84)
+        super(name);  // ä½¿ç”¨ä¼ å…¥çš? name
+                                ^
+C:\Users\18328\Desktop\Java\tempCodeRunnerFile.java:48: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x99)
+public class Main {  // ç±»åé¦–å­—æ¯å¤§å†?
+                                  ^
+C:\Users\18328\Desktop\Java\tempCodeRunnerFile.java:49: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x99)
+    public static void main(String[] args) {  // main æ–¹æ³•é¦–å­—æ¯å°å†?
+                                                                ^
+C:\Users\18328\Desktop\Java\tempCodeRunnerFile.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+               ^
+C:\Users\18328\Desktop\Java\tempCodeRunnerFile.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+                 ^
+C:\Users\18328\Desktop\Java\tempCodeRunnerFile.java:51: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x97)
+        Animal animal1 = new Lion("Simba");  // åˆ›å»º Lion å¯¹è±¡æ—¶ä¼ å…¥åå­?
+                                                                   ^
+C:\Users\18328\Desktop\Java\tempCodeRunnerFile.java:53: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAC)
+        // è°ƒç”¨æ–¹æ³•ï¼šä¼šæ‰§è¡Œ Lion ç±»ä¸­é‡å†™çš„ç‰ˆæœ?
+                                       ^
+2024.09.30 17:32:24 INFO  no build target found for C:\Users\18328\Desktop\Java\tempCodeRunnerFile.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:32:24 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-32-24-369.md
+9ÔÂ 30, 2024 5:32:25 ÏÂÎç org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+¾¯¸æ: Unmatched cancel notification for request id 186
+2024.09.30 17:32:26 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:32:26 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-32-26-399.md
+2024.09.30 17:32:28 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:32:28 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-32-28-631.md
+2024.09.30 17:33:02 WARN  no build target for: C:\Users\18328\Desktop\Java\main.java
+2024.09.30 17:33:02 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:33:02 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-33-02-176.md
+2024.09.30 17:33:11 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+C:\Users\18328\Desktop\Java\main.java:1: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x81)
+// JAVAå¤šæ¨¡æ€?
+           ^
+C:\Users\18328\Desktop\Java\main.java:7: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+    // æ„é? å‡½æ•°ï¼šåˆå§‹åŒ–åŠ¨ç‰©çš„åå­—
+         ^
+C:\Users\18328\Desktop\Java\main.java:22: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x95)
+    // è·å–åŠ¨ç‰©åå­—çš„æ–¹æ³?
+                    ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+               ^
+C:\Users\18328\Desktop\Java\main.java:28: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xBB)
+// Lion ç±»ï¼šç»§æ‰¿è‡? Animal ç±?
+                         ^
+C:\Users\18328\Desktop\Java\main.java:31: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x84)
+        super(name);  // ä½¿ç”¨ä¼ å…¥çš? name
+                                ^
+C:\Users\18328\Desktop\Java\main.java:48: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x99)
+public class Main {  // ç±»åé¦–å­—æ¯å¤§å†?
+                                  ^
+C:\Users\18328\Desktop\Java\main.java:49: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x99)
+    public static void main(String[] args) {  // main æ–¹æ³•é¦–å­—æ¯å°å†?
+                                                                ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x80)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+               ^
+C:\Users\18328\Desktop\Java\main.java:50: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAA)
+        // åˆ›å»ºä¸?ä¸? Lion å¯¹è±¡ï¼Œä½†ä½¿ç”¨ Animal å¼•ç”¨ç±»å‹ï¼ˆå¤šæ€ï¼‰
+                 ^
+C:\Users\18328\Desktop\Java\main.java:51: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0x97)
+        Animal animal1 = new Lion("Simba");  // åˆ›å»º Lion å¯¹è±¡æ—¶ä¼ å…¥åå­?
+                                                                   ^
+C:\Users\18328\Desktop\Java\main.java:53: ´íÎó: ±àÂë GBK µÄ²»¿ÉÓ³Éä×Ö·û (0xAC)
+        // è°ƒç”¨æ–¹æ³•ï¼šä¼šæ‰§è¡Œ Lion ç±»ä¸­é‡å†™çš„ç‰ˆæœ?
+                                       ^
+2024.09.30 17:33:11 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:33:11 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-33-11-821.md
+2024.09.30 17:33:12 WARN  no build target for: C:\Users\18328\Desktop\Java\main.java
+2024.09.30 17:33:12 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:33:12 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-33-12-246.md
+2024.09.30 17:34:00 WARN  no build target for: C:\Users\18328\Desktop\Java\main.java
+2024.09.30 17:34:00 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:34:00 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-34-00-794.md
+2024.09.30 17:54:07 WARN  no build target for: C:\Users\18328\Desktop\Java\main.java
+2024.09.30 17:54:07 INFO  no build target found for C:\Users\18328\Desktop\Java\main.java. Using presentation compiler with project's scala-library version: 3.3.3
+9ÔÂ 30, 2024 5:54:08 ÏÂÎç scala.meta.internal.pc.CompilerAccess handleError
+ÑÏÖØ: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\18328\Desktop\Java\.metals\.reports\metals-full\2024-09-30\r_compiler-error_17-54-08-115.md
+2024.09.30 17:59:25 INFO  Shutting down server
+2024.09.30 17:59:25 INFO  shutting down Metals
+2024.09.30 17:59:25 INFO  Exiting server
